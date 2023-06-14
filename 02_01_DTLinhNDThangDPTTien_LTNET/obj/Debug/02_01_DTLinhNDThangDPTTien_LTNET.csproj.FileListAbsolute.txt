@@ -1,0 +1,123 @@
+E:\ky2 nam 3\LapTrinh.NET\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\02_01_DTLinhNDThangDPTTien_LTNET.exe.config
+E:\ky2 nam 3\LapTrinh.NET\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\02_01_DTLinhNDThangDPTTien_LTNET.exe
+E:\ky2 nam 3\LapTrinh.NET\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\02_01_DTLinhNDThangDPTTien_LTNET.pdb
+E:\ky2 nam 3\LapTrinh.NET\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\02_01_DTLinhNDThangDPTTien_LTNET.csproj.AssemblyReference.cache
+E:\ky2 nam 3\LapTrinh.NET\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\02_01_DTLinhNDThangDPTTien_LTNET.csproj.SuggestedBindingRedirects.cache
+E:\ky2 nam 3\LapTrinh.NET\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.frmMain.resources
+E:\ky2 nam 3\LapTrinh.NET\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.frmSinhVien.resources
+E:\ky2 nam 3\LapTrinh.NET\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.Properties.Resources.resources
+E:\ky2 nam 3\LapTrinh.NET\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\02_01_DTLinhNDThangDPTTien_LTNET.csproj.GenerateResource.cache
+E:\ky2 nam 3\LapTrinh.NET\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\02_01_DTLinhNDThangDPTTien_LTNET.csproj.CoreCompileInputs.cache
+E:\ky2 nam 3\LapTrinh.NET\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\02_01_DTLinhNDThangDPTTien_LTNET.exe
+E:\ky2 nam 3\LapTrinh.NET\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\02_01_DTLinhNDThangDPTTien_LTNET.pdb
+E:\ky2 nam 3\LapTrinh.NET\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.frmDangNhap.resources
+E:\ky2 nam 3\LapTrinh.NET\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.frmDoiMK.resources
+E:\ky2 nam 3\LapTrinh.NET\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.frmTaiKhoan.resources
+E:\ky2 nam 3\LapTrinh.NET\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.frmTimKiem.resources
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\02_01_DTLinhNDThangDPTTien_LTNET.exe.config
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\02_01_DTLinhNDThangDPTTien_LTNET.exe
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\02_01_DTLinhNDThangDPTTien_LTNET.pdb
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.frmDangNhap.resources
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.frmDoiMK.resources
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.frmMain.resources
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.frmSinhVien.resources
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.frmTaiKhoan.resources
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.frmTimKiem.resources
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.Properties.Resources.resources
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\02_01_DTLinhNDThangDPTTien_LTNET.csproj.GenerateResource.cache
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\02_01_DTLinhNDThangDPTTien_LTNET.csproj.CoreCompileInputs.cache
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\02_01_DTLinhNDThangDPTTien_LTNET.exe
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\02_01_DTLinhNDThangDPTTien_LTNET.pdb
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.frmLop.resources
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.frmTimkiemlop.resources
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.frmTacgia.resources
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.frmWord.resources
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\ExcelDataReader.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\ExcelDataReader.pdb
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\ExcelDataReader.xml
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.frmExcel.resources
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\02_01_DTLinhNDThangDPTTien_LTNET.csproj.CopyComplete
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\EnvDTE.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\stdole.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\EnvDTE80.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\VSLangProj.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\VSLangProj80.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\Newtonsoft.Json.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\Microsoft.MSXML.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\Microsoft.Build.Framework.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\VSLangProj2.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\02_01_DTLinhNDThangDPTTien_LTNET.exe.config
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.frmBaocaoSV.resources
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.frmBaocaolop.resources
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\_02_01_DTLinhNDThangDPTTien_LTNET.frmHuongdan.resources
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\EnvDTE.xml
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\EnvDTE80.xml
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\VSLangProj.xml
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\VSLangProj80.xml
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\bin\Debug\VSLangProj2.xml
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\02_01_DTLinhNDThangDPTTien_LTNET.csproj.AssemblyReference.cache
+D:\Kì 2 năm 3\C#\02_01_DTLinhNDThangDPTTien_LTNET\02_01_DTLinhNDThangDPTTien_LTNET\obj\Debug\02_01_DTLinhNDThangDPTTien_LTNET.csproj.SuggestedBindingRedirects.cache
